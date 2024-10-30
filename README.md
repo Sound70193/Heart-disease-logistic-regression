@@ -1,4 +1,4 @@
-Heart Disease Linear Regression
+Heart Disease Logistic Regression
 
 I have did Heart Disease dataset for Logistic Regression , you can download the link from belows of CSV and ipynb files
 
